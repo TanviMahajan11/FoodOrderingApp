@@ -9,7 +9,7 @@ FoodieFinder is an interactive food ordering website built using React, JavaScri
 - **Interactive UI**: Utilizes Skeleton UI for enhanced user experience.
 - **Navigation**: Implemented using React Router.
 - **State Management**: Managed using Redux.
-- **Code Optimization**: Code splitting, lazy loading, and Parcel configuration resulting in a 40% reduction in load times.
+- **Code Optimization**:  Parcel configuration resulting in a 40% reduction in load times.
 - **UI Components**: Features a carousel for food offers and an accordion interface for food items.
 
 Technologies Used
